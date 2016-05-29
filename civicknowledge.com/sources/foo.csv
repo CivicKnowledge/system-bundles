@@ -1,0 +1,101 @@
+"domain","parent_domain","name","home_page","categories"
+"chks.wested.org",,"California Healthy Kids Survey","http://chks.wested.org","Health"
+"usa.gov",,"US Federal Government","http://usa.gov",
+"data.gov","usa.gov","Data.gov","http://data.gov",
+"usda.gov","usa.gov","United States Department of Agriculture","http://www.usda.gov/","Agriculture"
+"ers.usda.gov","usda.gov","United States Department of Agriculture - Economic Research Service","http://ers.usda.gov","Agriculture"
+"fns.usda.gov","usda.gov","Healthcare Cost and Utilization Project","http://fns.usda.gov","Health"
+"ffiec.gov","usa.gov","Federal Financial Institutions Examination Council","http://www.ffiec.gov/","Commerce"
+"census.gov","usa.gov","United States Census Bureau","http://census.gov","Demographics"
+"treasury.gov","usa.gov","US Department of the Treasury","http://www.treasury.gov/","Economics"
+"cdfifund.gov","treasury.gov","Community Development Financial Institutions Fund","http://www.cdfifund.gov/","Commerce"
+"cms.gov","usa.gov","Centers for Medicare & Medicaid Services","http://cms.gov","Health"
+"ccwdata.org","cms.gov","Chronic Conditions Data Warehouse","http://www.ccwdata.org","Health"
+"dnav.cms.gov","cms.gov","Centers for Medicare & Medicaid Services Data Navigator","http://dnav.cms.gov","Health"
+"medicare.gov","cms.gov","Medicare","http://medicare.gov","Health"
+"hhs.gov","usa.gov","US Health and Human Services","http://hhs.gov","Health"
+"acf.hhs.gov","hhs.gov","Administration for Children and Families (ACF)","http://www.acf.hhs.gov","Health"
+"agid.acl.gov","hhs.gov","AGing Integrated Database (AGID)","http://agid.acl.gov","Health"
+"agingstats.gov","agid.acl.gov","Federal Interagency Forum on Aging-Related Statistics","http://agingstats.gov","Health"
+"ahrq.gov","hhs.gov","Agency for Healthcare Research and Quality","http://www.ahrq.gov/","Health"
+"hcupnet.ahrq.gov","ahrq.gov","Hcupnet - Agency for Healthcare Research and Quality","http://hcupnet.ahrq.gov","Health"
+"meps.ahrq.gov","ahrq.gov","Medical Expenditure Panel Survey","http://meps.ahrq.gov","Health"
+"nhqrnet.ahrq.gov","ahrq.gov","National Healthcare Quality and Disparities Reports","http://nhqrnet.ahrq.gov","Health"
+"childwelfare.gov","hhs.gov","Child Welfare Information Gateway","http://childwelfare.gov","Health"
+"healthdata.gov","hhs.gov","Health Data Community","http://healthdata.gov","Health"
+"hrsa.gov","hhs.gov","Health Resources and Services Administration","http://hrsa.gov","Health"
+"samhsa.gov","hhs.gov","Substance Abuse & Mental Health Services Administration","http://samhsa.gov","Health"
+"nih.gov","usa.gov","National Institutes of Health","http://www.nih.gov/","Health"
+"nlm.nih.gov","nih.gov","U.S. National Library of Medicine - National Institutes of Health","http://nlm.nih.gov","Health"
+"fbi.gov","usa.gov","Federal Bureau of Investigation","http://fbi.gov","Justice"
+"nhtsa.gov","usa.gov","National Traffic Highway Safety Administration","http://www.nhtsa.gov/","Transportation"
+"healthstatus2020.com",,"Quick Health Data Online","http://healthstatus2020.com","Health"
+"childstats.gov",,"Childstats.gov","http://childstats.gov",
+"fhop.ucsf.edu",,"Family Health Outcomes Project","http://fhop.ucsf.edu","Health"
+"naccho.org",,"The National Association of County & City Health Officials","http://naccho.org","Health"
+"kidsdata.org",,"KidsData","http://kidsdata.org",
+"californiabreathing.org",,"California Breathing","http://californiabreathing.org","Health"
+"ca.gov",,"State of California","http://www.ca.gov",
+"atlas.ca.gov","ca.gov","State of California Geoportal","http://atlas.ca.gov",
+"ca.rand.org","ca.gov","RAND California","http://ca.rand.org",
+"waterboards.ca.gov","ca.gov","State Water Resources Control Board","http://waterboards.ca.gov/",
+"dca.ca.gov","ca.gov","California Department of Consumer Affairs","http://dca.ca.gov","Economics"
+"dof.ca.gov","ca.gov","California Department of Finance","http://dof.ca.gov","Economics"
+"dhcs.ca.gov","ca.gov","California Department of Health Care Services","http://dhcs.ca.gov","Health"
+"opa.ca.gov","ca.gov","California Office of the Patient Advocate","http://opa.ca.gov","Health"
+"reportcard.opa.ca.gov","opa.ca.gov","California Health Care Quality Report Cards","http://reportcard.opa.ca.gov","Health"
+"oshpd.ca.gov","ca.gov","Office of Statewide Health Planning and Development","http://oshpd.ca.gov","Health"
+"westnile.ca.gov","ca.gov","The California Department of Public Health West Nile Virus Website","http://westnile.ca.gov","Health"
+"cdss.ca.gov","ca.gov","California Department of Social Services","http://cdss.ca.gov","Human Services"
+"ccld.ca.gov","cdss.ca.gov","California Community Care Licensing Division","http://ccld.ca.gov/","Health"
+"chp.ca.gov","ca.gov","California Highway Patrol","http://chp.ca.gov","Safety"
+"dot.ca.gov","ca.gov","California Department of Transportation","http://dot.ca.gov","Transportation"
+"calblueprint.dot.ca.gov","dot.ca.gov","California Department of Transportation - Division of Transportation Planning","http://calblueprint.dot.ca.gov","Transportation"
+"ccrcal.org",,"California Cancer Registry","http://ccrcal.org","Health"
+"kff.org",,"The Henry J. Kaiser Family Foundation","http://kff.org",
+"cdc.gov/nchs",,"National Center for Health Statistics (NCHS)","http://www.cdc.gov/nchs/","Health"
+"healthindicators.gov","cdc.gov/nchs","Health Indicators Warehouse","http://healthindicators.gov","Health"
+"calhospital.org",,"California Hospital Association","http://calhospital.org","Health"
+"countyhealthrankings.org",,"County Health Rankings & Roadmaps","http://countyhealthrankings.org","Health"
+"workingpoorfamilies.org",,"The Working Poor Families Project","http://workingpoorfamilies.org",
+"healthpolicy.ucla.edu",,"UCLA Center for Health Policy Research","http://healthpolicy.ucla.edu","Health"
+"whynotthebest.org",,"Why Not The Best","http://whynotthebest.org",
+"phasocal.org",,"Public Health Alliance of Southern California","http://phasocal.org","Health"
+"commonwealthfund.org",,"The Commonwealth Fund","http://commonwealthfund.org",
+"health-access.org",,"Health Access","http://health-access.org","Health"
+"californiateenhealth.org",,"California Adolescent Health Collaborative","http://californiateenhealth.org","Health"
+"healthycity.org",,"Healthy City","http://healthycity.org","Health"
+"schoolhealthcenters.org",,"California School-Based Health Alliance","http://schoolhealthcenters.org","Health"
+"resdac.org",,"Research Data Assistance Center","http://resdac.org",
+"healthyamericans.org",,"Trust for America's Health","http://healthyamericans.org","Health"
+"aligningforceshumboldt.org",,"Aligning Forces Humboldt","http://aligningforceshumboldt.org",
+"insightcced.org",,"Insight Center for Community Economic Development","http://insightcced.org",
+"assessment.communitycommons.org",,"Community Health Needs Assessment Report","http://assessment.communitycommons.org","Health"
+"dqs.publichealth.lacounty.gov",,"Los Angeles Department of Public Health","http://dqs.publichealth.lacounty.gov","Health"
+"swap.ice.ucdavis.edu",,"Drinking Water Source Assessment and Protection Program","http://swap.ice.ucdavis.edu","Health"
+"dartmouthatlas.org",,"Dartmouth Atlas of Health Care","http://dartmouthatlas.org","Health"
+"countyhealthcalculator.org",,"County Health Calculator","http://countyhealthcalculator.org","Health"
+"chis.ucla.edu",,"California Health Interview Survey","http://chis.ucla.edu","Health"
+"cstats.info",,"County and Statewide Archive of Tobacco Statistics","http://cstats.info","Health"
+"cpehn.org",,"California Pan-Ethnic Health Network","http://cpehn.org","Health"
+"cic.naco.org",,"NACo County Intelligence Connection 2.0","http://cic.naco.org",
+"marchofdimes.com",,"March of Dimes","http://marchofdimes.com","Health"
+"chpis.org",,"California Healthcare Performance Information System","http://chpis.org","Health"
+"ipodr.org",,"Improved Perinatal Outcome Data Reports","http://ipodr.org","Health"
+"childhealthdata.org",,"Data Resource Center for Child & Adolescent Health","http://childhealthdata.org","Health"
+"communitycommons.org",,"Community Commons","http://communitycommons.org",
+"rwjf.org",,"Robert Wood Johnson Foundation","http://rwjf.org",
+"governing.com",,"Governing","http://governing.com",
+"cssr.berkeley.edu",,"Berkeley Center for Social Services Research","http://cssr.berkeley.edu",
+"icpsr.umich.edu",,"Inter-university Consortium for Political and Social Research","http://icpsr.umich.edu",
+"coveredca.com",,"Covered California","http://coveredca.com","Health"
+"americashealthrankings.org",,"America's Health Rankings","http://americashealthrankings.org","Health"
+"libraries.ucsd.edu",,"The Library","http://libraries.ucsd.edu",
+"findthebest.com",,"Find The Best","http://findthebest.com",
+"kidscount.org",,"Kids Count","http://kidscount.org",
+"childrennow.org",,"Children Now","http://childrennow.org",
+"shadac.org",,"State Health Access Data Assistance Center","http://shadac.org","Health"
+"cancer-rates.info",,"Cancer Incidence and Mortality Data","http://cancer-rates.info","Health"
+"feedingamerica.org",,"Feeding America","http://feedingamerica.org","Human Services"
+"ehib.org",,"Environmental Health Investigations Branch","http://ehib.org","Health"
+"calqualitycare.org",,"CalQualityCare.org - Quality Health Care in California","http://calqualitycare.org","Health"

@@ -1,0 +1,8 @@
+"table","sequence_id","column","datatype","description"
+,,,,
+"sources",1,"id","int","Dataset source organizations"
+"sources",2,"domain","str","The primary key for the source. It isn't a real domain name, but is usually related to it. "
+"sources",3,"parent_domain","str","The domain of the parent organization"
+"sources",4,"name","str","Full name of the organization"
+"sources",5,"home_page","str","URL of the home page of the organization"
+"sources",6,"categories","str","Comma seperated list of groups or categories for the organization"

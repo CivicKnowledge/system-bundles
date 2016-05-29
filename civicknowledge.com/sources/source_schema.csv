@@ -1,0 +1,6 @@
+table,position,source_header,dest_header,datatype,valuetype,has_codes,start,width,size,summary,description
+sources,1,domain,domain,str,,False,,,,,
+sources,2,parent_domain,parent_domain,str,,False,,,,,
+sources,3,name,name,str,,False,,,,,
+sources,4,home_page,home_page,str,,False,,,,,
+sources,5,categories,categories,str,,False,,,,,

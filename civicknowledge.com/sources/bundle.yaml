@@ -1,0 +1,38 @@
+about:
+  access: restricted
+  remote: system
+  footnote: nll
+  grain: null
+  groups: null
+  license: ckdbl
+  processed: null
+  rights: public
+  source: null
+  space: null
+  subject: null
+  summary: Names, domains and descriptions for dataset sources. The domain values are the 
+     first component in an Ambry datasetname. 
+  tags: []
+  time: null
+  title: Dataset Source Organizations
+contacts:
+  creator:
+    email: eric@civicknowledge.com
+    name: Eric Busboom
+    org: Civic Knowledge
+    url: http://civicknowledge.com
+dependencies: {}
+external_documentation: {}
+identity:
+  dataset: sources
+  id: d04O
+  revision: 1
+  source: civicknowledge.com
+  version: 0.0.1
+names:
+  fqname: civicknowledge.com-sources-0.0.1~d04O001
+  name: civicknowledge.com-sources
+  vid: d04O001
+  vname: civicknowledge.com-sources-0.0.1
+requirements: {}
+versions: {}
